@@ -76,8 +76,12 @@ Office Hours: TBD
 
 ### Cameron King
 * Email: csking@ucsb.edu
+
+Hi all, I'm Cameron, a 4th year CS major. I've taken all the lower division courses here at UCSB including this class, and I hope to use that experience to help your learning this quarter. Feel free to discuss topics with me that are unrelated to this class, such as major course selection or internships in the software industry. When I'm not working, I enjoy nerd things like k-pop, Genshin Impact, ricing my Linux partition, and going to the gym.
 <pre>
-Office Hours: TBD
+Office Hours:
+Tuesday 8pm-9pm on Zoom (link located at top of this page)
+Friday 1pm-2pm @ Phelps 3525
 </pre>
 
 ### Tianchen Wang
