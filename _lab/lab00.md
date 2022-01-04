@@ -1,7 +1,7 @@
 ---
 desc: Getting started
-assigned: 2022-01-05 13:00
-due: 2022-01-12 21:00
+assigned: 2022-01-04 15:30
+due: 2022-01-12 23:59
 layout: lab
 num: lab00
 ready: true
@@ -31,7 +31,7 @@ No!  Some weeks we'll ahve specific activities outside the zyBook that *only* ta
 
 Accordingly:
 * You should participate during your assigned discussion section time.  
-* You are encouraged to come in person if you can, but you may also participate over Zoom if you are unable to do so (e.g. due to quarantine, Covid symptoms, or other issues). We'll use the zoom link for office hours for this purpose: https://bit.ly/cs16-w22-office-hours
+* You are encouraged to come in person if you can, but you may also participate over Zoom if you are unable to do so (e.g. due to quarantine, Covid symptoms, or other issues). We'll use the zoom link for office hours for this purpose: TBD
 
 # Why you need to come to your assigned discussion section
 
