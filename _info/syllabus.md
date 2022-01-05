@@ -22,7 +22,7 @@ You must contact the instructor for clarification if you receive information fro
 
 * zyBooks Assignments: 25% 
 * Gradescope assignments: 25%
-* Midterm Exams (2): 25%
+* Midterm Exam: 25%
 * Final Examination : 25%
 
 Letter Grades:
