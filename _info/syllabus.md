@@ -275,12 +275,12 @@ be comfortable with all of the following:</p>
     <br />
   </li>
   <li><strong>(2) Homeworks</strong>
-    <br />The reading and homeworks are practice for the exams. Homeworks will be posted on the course website each week (downloadable as a pdf). You must submitted your homwork answers electronically as a pdf file to gradescope. The preferred format is that you download the source pdf of the homework, write or type your answers. You may also print the original homework, write your answers using a dark pencil or pen, then scan your work. You may also simply use any text editor to write the answers to each question, convert the file to pdf and upload to gradescope.<br />
+    <br />The reading and homeworks are practice for the exams. Homeworks will be the exercise questions and labs on zyBook. You must finish answering the questions and complete the lab tasks on time.<br />
     <br />
 <br />
   </li>
 
-  <li><strong>(3) Programming Assignments (Labs)</strong>—Programming assignments (also called labs) are given once a week, and are typically assigned every Friday. You may work on them during closed labs and plan to finish the assignment on your own time outside of lab. You must however, read the assignment and attempt the parts that you do with little assistant as soon as the assignment is released. The assumption is that you at the very least read the assignment before your lab section. You are encouraged to use pair programming in most of the labs but please read the collaboration policy for each lab. Some labs have to be completed individually.<br />
+  <li><strong>(3) Programming Assignments (Labs)</strong>—Programming assignments (also called labs) are given once a week, and are typically assigned every Tuesday. You may work on them during closed labs and plan to finish the assignment on your own time outside of lab. You must however, read the assignment and attempt the parts that you do with little assistant as soon as the assignment is released. The assumption is that you at the very least read the assignment before your lab section. You are encouraged to use pair programming in most of the labs but please read the collaboration policy for each lab. Some labs have to be completed individually.<br />
     <br />
   </li>
   <li><strong>(4) Lectures</strong>—Learning is something that you do as a student, not something that is &quot;done to you&quot; by a teacher. Therefore most of the learning you will do in this course takes place when you are actively involved in doing something challenging (i.e., during the homework assignments and labs). Most of the information you will need to do those assignments will come from the reading. <br />
