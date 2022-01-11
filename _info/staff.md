@@ -65,6 +65,13 @@ Discussion Section: TBD
 Office Hours: TBD
 </pre>
 
+### Xinyu Liu
+* Email: xinyu_liu12@ucsb.edu
+<pre>
+Discussion Section: TBD
+Office Hours: TBD
+</pre>
+
 ## Learning Assistants (LAs)
 In addition to the instructor and TA, there will be some undergraduate Learning Assistants (LAs) in the course who are available to assist you during your scheduled lab sections (also called closed labs) and by holding additional help hours outside of sections (also called open-labs). The closed-labs are only available to students registered for that lab section on GOLD. The open-labs are available to all students registered in the course (similar to office hours).
 
