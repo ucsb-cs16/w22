@@ -89,8 +89,9 @@ Office Hours: TBD
 
 ### Tianchen Wang
 * Email: tianchenwang@ucsb.edu
+* Hello guys, my preferred name is Jerry Wang. I am a senior CS student here at UCSB.
 <pre>
-Office Hours: TBD
+Office Hours: Thu 2:00pm - 3:00pm
 </pre>
 
 ### Tina Shi
