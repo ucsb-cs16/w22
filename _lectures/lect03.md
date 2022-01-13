@@ -1,5 +1,5 @@
 ---
-desc: Second Lecture
+desc: Third Lecture
 num: lect03
 lecture_date: 2022-01-11
 ready: true
