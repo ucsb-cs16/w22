@@ -4,7 +4,7 @@ num: lab03
 ready: true
 desc: "Crunching numbers: Loops and Functions"
 assigned: 2022-01-25 16:45
-due: 2022-02-02 23:59:00
+due: 2022-02-03 23:59:00
 ---
 
 
