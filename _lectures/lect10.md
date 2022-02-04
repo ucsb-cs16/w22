@@ -7,7 +7,7 @@ ready: true
 
 # Midterm Review
 
-* Slides: <https://drive.google.com/file/d/18LasqvIqszkhLAdD5t4NC6QtLO42VqbA/view?usp=sharing>
+* Slides: <https://drive.google.com/file/d/1MJSuzWTBGQyCgodNMzrhmvmvkiwTyVmy/view?usp=sharing>
 * Video: <>
 * Codes: <>
 
