@@ -4,7 +4,7 @@ num: lab05
 ready: true
 desc: "Odds and primes: Fun with arrays and makefiles"
 assigned: 2022-02-08 16:45
-due: 2022-02-16 23:59:00
+due: 2022-02-20 23:59:00
 ---
 
 # What to work on today (02/09)
