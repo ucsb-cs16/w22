@@ -9,4 +9,5 @@ ready: true
 
 * Slides: <https://drive.google.com/file/d/1K0PZ4J-j6qVSIbUE-oefugcy-1JkKnFp/view?usp=sharing>
 * Video: <>
-* Codes: <>
+* Codes: <https://drive.google.com/file/d/1kt-0FP8tDhN_gW9xP3Ur9SEsX5s2eh4L/view?usp=sharing>
+* The copy constructor has not been finished yet.
