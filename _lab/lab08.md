@@ -37,9 +37,9 @@ By the time you have completed this lab, you should be able to
 
 The starter code is in this repo:
 
-* <https://github.com/ucsb-cs16-f21/STARTER-lab08>
+* <https://github.com/ucsb-cs16-w22/STARTER-lab08>
 
-The URL for cloning this repo is this: `git@github.com:ucsb-cs16-f21/STARTER-lab08.git`
+The URL for cloning this repo is this: `git@github.com:ucsb-cs16-w22/STARTER-lab08.git`
 
 Previous labs contain instruction for the process of:
 * Adding a `starter` remote for this repo
