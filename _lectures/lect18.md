@@ -9,5 +9,5 @@ ready: true
 
 * Slides: <https://drive.google.com/file/d/1ooe8gAKheWROafTZkJe3hRYsEzpBYuer/view?usp=sharing>
 * Video: <>
-* Codes: <>
+* Codes: <https://drive.google.com/file/d/1lmesiG_eaKFr6lfktyFt2jFZJ20UKHRl/view?usp=sharing>
 
